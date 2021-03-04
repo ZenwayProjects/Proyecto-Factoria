@@ -76,8 +76,9 @@ const NuevaPub = () => {
                         <div>
                             <h3>Imagen</h3>
                         </div>
-                        <div>
-                            
+                        <div className="contenedor-imagen">
+                            <div><button className="button-img">Subir</button></div>
+                            <div className="div-img"></div>
                         </div>
                     </div>
 
