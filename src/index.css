@@ -400,6 +400,16 @@ a{
   display: block;
   
 }
+.hoversombra:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img-listad{
+  
+  width: 200px; 
+  display: block;
+  border-radius: 20%;
+  
+}
 .img-investigacion{
   border-radius: 50%;
   width: 150px; 

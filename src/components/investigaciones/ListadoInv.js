@@ -2,7 +2,7 @@ import React from 'react';
 import Imagen from '../../img/400x400.png';
 const ListadoInv = () => {
     return (
-        <div className="card flexbox shadow m-5 borderlista">
+        <div className="card flexbox  hoversombra shadow m-5 borderlista">
             <img className="card-img-top img-listad" src={Imagen} alt="Card image cap" />
             <div className="card-body">
                 <div className="container">
